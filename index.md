@@ -6,7 +6,7 @@ It was with the advice of UND student Jessica Eagle-Bluestone, that attention wa
 
 In a preliminary site survey by car and through the course of interviews with local stakeholders, it became apparent that Mandaree may be a good candidate for commercial greenhouses, bringing fresh produce and jobs. Adding heat demand density to the DH system would increase the overall economic feasibility. In addition, the community and region relies often on supplemental jobs from the oil and gas industry. Indeed, many wells are drilled around and beneath greater Mandaree. These wells generally extend to the Bakken shale formation at a depth of approximately 3300 meters. Between surface and that depth exist many warm aquifers that may provide adequate production of hot waters to heat the structures and future industry of Mandaree. 
 
-![Mandaree](https://github.com/NicholasFry/Mandaree/blob/main/Mandaree%2C%20North%20Dakota%2C%20Fort%20Berthold%20Indian%20Reservation.svg)
+![Mandaree](https://github.com/NicholasFry/Mandaree/blob/main/Mandaree%2C%20North%20Dakota%2C%20Fort%20Berthold%20Indian%20Reservation.png)
 
 This project became an exploration of not only the geothermal potential that exists beneath the town of Mandaree, but what that geothermal energy could do to revitalize the community in the face of a downturn in the oil and gas industry. Student investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree. 
 
