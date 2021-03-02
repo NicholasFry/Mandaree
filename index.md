@@ -12,7 +12,7 @@ This project became an exploration of not only the geothermal potential that exi
 
 Diligent students pulled well logs from dozens of nearby boreholes. One well stood out in particular, well 18128, in an abandon status and within 2km of Mandaree. The Inyan Kara formation became the primary formation of interest with temperatures of approximately 85C. The necessary temperatures for DH are usually much less, so the Inyan Kara was adequate from a system perspective. The necessary geologic investigation came next. In the next image you see the gamma ray well log, from which students can pull the precise thickness of the formation. Knowing the thickness will also feed into the study of how much fluid and energy the formation could sustainably produce from a 7" well casing, given other values such as permeability and porosity of the sandstone.
 
-![Inyan Kara](https://github.com/NicholasFry/Mandaree/raw/main/18128Gamma.png)
+![Inyan Kara](https://github.com/NicholasFry/Mandaree/blob/main/18128Gamma.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/NicholasFry/Mandaree/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
