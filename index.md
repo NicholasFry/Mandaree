@@ -10,6 +10,8 @@ In a preliminary site survey by car and through the course of interviews with lo
 
 This project became an exploration of not only the geothermal potential that exists beneath the town of Mandaree, but what that geothermal energy could do to revitalize the community in the face of a downturn in the oil and gas industry. Student investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree. 
 
+![Inyan Kara](https://github.com/NicholasFry/Mandaree/blob/main/18128Gamma.png)
+
 You can use the [editor on GitHub](https://github.com/NicholasFry/Mandaree/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
