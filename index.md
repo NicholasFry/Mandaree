@@ -1,4 +1,4 @@
-### A Perspective on Oil Well Conversion for Geothermal District Heating in Mandaree, North Dakota
+# A Perspective on Oil Well Conversion for Geothermal District Heating in Mandaree, North Dakota
 
 Beginning in late January of 2021, the University of North Dakota entered the Spring US Department of Energy (DOE) Geothermal Collegiate Competition. Soon afterwards, students from Iceland School of Energy joined in to collaborate on the geothermal exploitation project. Rules from the DOE, hosted by the National Renewable Energy Laboratory (NREL), state that the focus of each investigation should be for direct use purposes. Direct uses include building heating and cooling, various forms of agricultural process heat, industrial heat, among others. 
 
