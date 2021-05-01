@@ -24,7 +24,7 @@ https://www.geodeep.fr/engie-solutions-geothermal-district-heating/ <br />
 Reykjavik, Iceland \
 https://www.c40.org/case_studies/the-worlds-largest-geothermal-heating-system-saves-up-to-4m-tons-co2-annually <br /> 
 
-## Explainer article \
+## Explainer article 
 The Earth itself could provide carbon-free heat for buildings - By David Roberts \
 https://www.vox.com/energy-and-environment/2020/11/13/21537801/climate-change-renewable-energy-geothermal-heat-gshp-district-heating <br /> 
 
