@@ -1,4 +1,4 @@
-## A Perspective on Oil Well Conversion for Geothermal District Heating in Mandaree, North Dakota
+### A Perspective on Oil Well Conversion for Geothermal District Heating in Mandaree, North Dakota
 
 Beginning in late January of 2021, the University of North Dakota entered the Spring US Department of Energy (DOE) Geothermal Collegiate Competition. Soon afterwards, students from Iceland School of Energy joined in to collaborate on the geothermal exploitation project. Rules from the DOE, hosted by the National Renewable Energy Laboratory (NREL), state that the focus of each investigation should be for direct use purposes. Direct uses include building heating and cooling, various forms of agricultural process heat, industrial heat, among others. 
 
@@ -10,7 +10,7 @@ In a preliminary site survey by car and through the course of interviews with lo
 
 This project became an exploration of not only the geothermal potential that exists beneath the town of Mandaree, but what that geothermal energy could do to revitalize the community in the face of a downturn across the oil and gas industry. Students investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production of geothermal fluids, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree. 
 
-##Examples of Geothermal District Heating
+## Examples of Geothermal District Heating
 Boise, Idaho
 https://bwswd.com/
 Philip, South Dakota
@@ -24,11 +24,11 @@ https://www.geodeep.fr/engie-solutions-geothermal-district-heating/
 Reykjavik, Iceland
 https://www.c40.org/case_studies/the-worlds-largest-geothermal-heating-system-saves-up-to-4m-tons-co2-annually
 
-##Explainer article 
+## Explainer article 
 The Earth itself could provide carbon-free heat for buildings - By David Roberts
 https://www.vox.com/energy-and-environment/2020/11/13/21537801/climate-change-renewable-energy-geothermal-heat-gshp-district-heating
 
-##Examples of Commercial Greenhouses on Geothermal Heat
+## Examples of Commercial Greenhouses on Geothermal Heat
 Nova Scotia, Canada
 https://www.nationalobserver.com/2020/12/30/news/atlantic-first-nations-geothermal-greenhouses-food-insecurity
 Saskatchewan, Canada
@@ -40,7 +40,7 @@ http://www.thracegreenhouses.com/gr/en/ta-thermokipia/
 Iceland
 https://nea.is/geothermal/direct-utilization/greenhouses/
 
-##Additional Resources
+## Additional Resources
 Geothermal District Heating - Cofunded by Intelligent Energy Europe
 http://geodh.eu/
 GeoVision: Harnessing the Heat Beneath Our Feet
