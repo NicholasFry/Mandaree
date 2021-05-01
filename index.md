@@ -11,8 +11,8 @@ In a preliminary site survey by car and through the course of interviews with lo
 This project became an exploration of not only the geothermal potential that exists beneath the town of Mandaree, but what that geothermal energy could do to revitalize the community in the face of a downturn across the oil and gas industry. Students investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production of geothermal fluids, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree. 
 
 ## Examples of Geothermal District Heating
-Boise, Idaho
-https://bwswd.com/
+Boise, Idaho\
+https://bwswd.com/ \ 
 Philip, South Dakota
 http://philipsd.govoffice3.com/vertical/sites/%7B027A62FC-ABCA-4BF1-AA8C-A6CCC72E7A66%7D/uploads/Philip_Comp_Plan_2009-2034_10_26_2009.pdf
 Pagosa Springs, Colorado
