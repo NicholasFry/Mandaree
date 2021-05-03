@@ -15,7 +15,7 @@ In a preliminary site survey by car and through the course of interviews with lo
 
 This project became an exploration of not only the geothermal potential that exists beneath the town of Mandaree, but what that geothermal energy could do to revitalize the community in the face of a downturn across the oil and gas industry. Students investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production of geothermal fluids, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree. 
 
-## Examples of Geothermal District Heating
+### Examples of Geothermal District Heating
 [Boise, Idaho](https://bwswd.com)
 <br /> 
 [Philip, South Dakota](http://philipsd.govoffice3.com/vertical/sites/%7B027A62FC-ABCA-4BF1-AA8C-A6CCC72E7A66%7D/uploads/Philip_Comp_Plan_2009-2034_10_26_2009.pdf) <br /> 
@@ -24,17 +24,17 @@ This project became an exploration of not only the geothermal potential that exi
 [Paris, France](https://www.geodeep.fr/engie-solutions-geothermal-district-heating/) <br /> 
 [Reykjavik, Iceland](https://www.c40.org/case_studies/the-worlds-largest-geothermal-heating-system-saves-up-to-4m-tons-co2-annually) <br /> 
 
-## Explainer article 
+### Explainer article 
 [The Earth itself could provide carbon-free heat for buildings - By David Roberts](https://www.vox.com/energy-and-environment/2020/11/13/21537801/climate-change-renewable-energy-geothermal-heat-gshp-district-heating) <br /> 
 
-## Examples of Commercial Greenhouses on Geothermal Heat
+### Examples of Commercial Greenhouses on Geothermal Heat
 [Nova Scotia, Canada](https://www.nationalobserver.com/2020/12/30/news/atlantic-first-nations-geothermal-greenhouses-food-insecurity) <br /> 
 [Saskatchewan, Canada](https://deepcorp.ca/about-deep/) <br /> 
 [British Columbia, Canada](https://www.greenhousecanada.com/canada-announces-40-5m-in-indigenous-led-geothermal-project/) <br /> 
 [Greece](http://www.thracegreenhouses.com/gr/en/ta-thermokipia/) <br /> 
 [Iceland](https://nea.is/geothermal/direct-utilization/greenhouses/) <br /> 
 
-## Additional Resources
+### Additional Resources
 [GeoDH - A multi-institution effort cofunded by Intelligent Energy Europe.](http://geodh.eu/) <br /> 
 [GeoVision: Harnessing the Heat Beneath Our Feet - A multi-institution study sponsored by the US Department of Energy.](https://openei.org/apps/geovision/) <br />
 [GeoRisk - A commercial readiness index for geothermal projects.](https://www.georisk-project.eu/)
