@@ -36,7 +36,7 @@ This project became an exploration of not only the geothermal potential that exi
 ## Additional Resources
 [Geothermal District Heating - Cofunded by Intelligent Energy Europe](http://geodh.eu/) <br /> 
 [GeoVision: Harnessing the Heat Beneath Our Feet - A multi-institution effort sponsored by the US Department of Energy](https://openei.org/apps/geovision/) <br />
-[GeoRisk - A commercial readiness index for geothermal projects](https://www.georisk-project.eu/)
+[GeoRisk - A commercial readiness index for geothermal district heating](https://www.georisk-project.eu/)
 
 You can use the [editor on GitHub](https://github.com/NicholasFry/Mandaree/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
