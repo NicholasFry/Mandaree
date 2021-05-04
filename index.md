@@ -3,17 +3,31 @@ youtubeId: 1YFLUbyPhcE
 ---
 # A Perspective on Oil Well Conversion for Geothermal District Heating in Mandaree, North Dakota
 
-Beginning in late January of 2021, the University of North Dakota entered the Spring US Department of Energy (DOE) Geothermal Collegiate Competition. Soon afterwards, students from Iceland School of Energy joined in to collaborate on the geothermal exploitation project. Rules from the DOE, hosted by the National Renewable Energy Laboratory (NREL), state that the focus of each investigation should be for direct use purposes. Direct uses include building heating and cooling, various forms of agricultural process heat, industrial heat, among others. 
+This site is part of the spring 2021 U.S. Department of Energy Geothermal Collegiate Competition by Team Geothermal Vision. Our team consists of graduate students from the University of North Dakota and Reykjavík University, Iceland. 
+
+We chose Mandaree, North Dakota as the site for our geothermal direct use development project. Mandaree is a community on the Fort Berthold Indian Reservation, home of the Mandan, Hidatsa and Arikara Nation.
 
 ![NoDak](https://raw.githubusercontent.com/NicholasFry/Mandaree/8a48f859ba617ff10861028f0094b343ac01b667/WillistonBasinMandaree.svg)
 
-It was with the advice of UND student Jessica Eagle-Bluestone, that attention was turned towards Mandaree, North Dakota on the Fort Berthold Indian Reservation. Mandaree is the domain of the Mandan, Hidatsa, and Arikara (MHA) Nation. The town is rural with approximately 280 useable structures. To make geothermal direct use work for the sparsely populated community, the source of heat should be as inexpensive as possible. The goal is to deliver hot fluids by pipeline to each structure at a price below that of propane. This heat network of pipes is more commonly known as district heating (DH).
+The town is rural with approximately 280 useable structures. To make geothermal direct use work for the sparsely populated community, the source of heat should be as inexpensive as possible. The goal is to deliver hot fluids by pipeline to each structure at a price below that of propane. This heat network of pipes is more commonly known as district heating (DH). Students investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production of geothermal fluids, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree.
 
 {% include youtubePlayer.html id=page.1YFLUbyPhcE %}
 
-In a preliminary site survey by car and through the course of interviews with local stakeholders, it became apparent that Mandaree may be a good candidate for commercial greenhouses, bringing fresh produce and jobs. Adding heat demand density from a commercial greenhouse to the DH system would increase the overall economic feasibility. In addition, the community and region relies often on supplemental jobs from the oil and gas industry. Indeed, many wells are drilled around and beneath Mandaree. These wells generally extend to the Bakken shale formation at a depth of approximately 3300 meters. Between surface and that depth exist many warm aquifers that may provide adequate production of hot waters to heat the structures and future industry of Mandaree. 
+What is geothermal energy?
+Geothermal energy is a natural resource from the heat produced inside the earth. This energy often rises to the surface through water, often pumped for production projects. 
+What are the benefits of utilizing geothermal energy?
+•	Geothermal energy is available 24 hours a day, 365 days a year.
+•	Direct use geothermal networks are emissions free and will not add to air pollution.
+•	It is a sustainable renewable natural resource.
+•	Geothermal heating plants have a small surface footprint, which reduces impact on the surrounding environment.
+Why is Mandaree a suitable candidate community for developing a geothermal project?
+Mandaree is located near the center of the Williston Basin and Nesson anticline. The heat that contributes to the well-developed oil and gas resource in the region can also be put to use, generating electricity or taken directly by consumers to heat buildings, melt show on roads, and heat greenhouses. 
+What can geothermal energy do for Mandaree?
+•	Increase access to nutrition through the development of geothermal supported greenhouse.
+•	Support economic development by creating local jobs related to project construction and network operation. 
+•	Reduce the community’s carbon footprint and dependency on fossil fuels.
+•	A community owned and operated district heating network will promote energy sovereignty.
 
-This project became an exploration of not only the geothermal potential that exists beneath the town of Mandaree, but what that geothermal energy could do to revitalize the community in the face of a downturn across the oil and gas industry. Students investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production of geothermal fluids, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree. 
 
 ### Examples of Geothermal District Heating
 [Boise, Idaho](https://bwswd.com)
