@@ -53,7 +53,7 @@ youtubeId: 1YFLUbyPhcE
   The Garrison dam has produced a tremendous amount of electricity at the expense of the wellbeing of the MHA Nation. The tribe was left out of ownership and given no stake in this engineering feat that destroyed their way of life. The ownership and operation of a geothermal district heating network that benefits community members in a way they can see everyday will ensure the community feels included in the national shift toward sustainable energy development. 
   
 ![Awareness](https://raw.githubusercontent.com/NicholasFry/Mandaree/36c1759a1cf51ba05f53f7178bce2c547b1ddd7e/Education.svg)
-This work was done in accordance with Executive Action (EA) 21-14
+This work was done in accordance with Executive Action (EA) 21-14 <br /> 
 Technical reports from this project are made available directly to MHA nation.
 
 ### Examples of Geothermal District Heating
