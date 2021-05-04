@@ -15,7 +15,7 @@ The town is rural with approximately 280 useable structures. To make geothermal 
 
 ## What is geothermal energy?
 
-Geothermal energy is a natural resource from the heat produced inside the earth. This energy often rises to the surface through water, often pumped for production projects.
+Geothermal energy is a natural resource from the heat produced inside the earth. This energy commonly rises to the surface through water, often pumped for production projects.
 
 ## What are the benefits of utilizing geothermal energy?
 
