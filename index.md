@@ -19,13 +19,13 @@ Geothermal energy is a natural resource from the heat produced inside the earth.
 
 ## What are the benefits of utilizing geothermal energy?
 
---*	Geothermal energy is available 24 hours a day, 365 days a year.
+*	Geothermal energy is available 24 hours a day, 365 days a year.
 
---*	Direct use geothermal networks are emissions free and will not add to air pollution.
+*	Direct use geothermal networks are emissions free and will not add to air pollution.
 
---*	It is a sustainable renewable natural resource.
+*	It is a sustainable renewable natural resource.
 
---*	Geothermal heating plants have a small surface footprint, which reduces impact on the surrounding environment.
+*	Geothermal heating plants have a small surface footprint, which reduces impact on the surrounding environment.
 
 ## Why is Mandaree a suitable candidate community for developing a geothermal project?
 
@@ -33,13 +33,13 @@ Mandaree is located near the center of the Williston Basin and Nesson anticline.
 
 ## What can geothermal energy do for Mandaree?
 
---*	Increase access to nutrition through the development of geothermal supported greenhouse.
+*	Increase access to nutrition through the development of geothermal supported greenhouse.
 
---*	Support economic development by creating local jobs related to project construction and network operation. 
+*	Support economic development by creating local jobs related to project construction and network operation. 
 
---*	Reduce the community’s carbon footprint and dependency on fossil fuels.
+*	Reduce the community’s carbon footprint and dependency on fossil fuels.
 
---*	A community owned and operated district heating network will promote energy sovereignty.
+*	A community owned and operated district heating network will promote energy sovereignty.
 
 
 ### Examples of Geothermal District Heating
