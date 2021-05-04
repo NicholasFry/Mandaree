@@ -51,6 +51,8 @@ youtubeId: 1YFLUbyPhcE
   As the push toward renewable energy development continues many communities have made great strides in expanding renewable energy capacity. Low-income communities and communities of color have generally not made many gains in developing renewable energy projects. There are several factors that contribute to this inequity in renewable energy, including a lack of technical skills within these communities and low levels of home ownership.  This project would provide an entire community access to a dependable renewable energy source, which is a step toward creating a more equitable energy environment. 
   
   The Garrison dam has produced a tremendous amount of electricity at the expense of the wellbeing of the MHA Nation. The tribe was left out of ownership and given no stake in this engineering feat that destroyed their way of life. The ownership and operation of a geothermal district heating network that benefits community members in a way they can see everyday will ensure the community feels included in the national shift toward sustainable energy development. 
+  
+![Awareness](https://raw.githubusercontent.com/NicholasFry/Mandaree/8a48f859ba617ff10861028f0094b343ac01b667/Education.svg)
 
 ### Examples of Geothermal District Heating
 [Boise, Idaho](https://bwswd.com)
