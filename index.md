@@ -11,7 +11,7 @@ youtubeId: 1YFLUbyPhcE
 
   The town is rural with approximately 280 useable structures. To make geothermal direct use work for the sparsely populated community, the source of heat should be as inexpensive as possible. The goal is to deliver hot fluids by pipeline to each structure at a price below that of propane. This heat network of pipes is more commonly known as district heating (DH). Students investigate what it takes to recomplete oil wells, what geologic formations are of interest, how to maximize production of geothermal fluids, the energetics of the surface system, the economic impacts, where the investment dollars come from, and how this meets the desires of the people of Mandaree.
 
-{% include youtubePlayer.html id=page.EdBM8_uYic8 %}
+{% include youtubePlayer.html id=page.wALBm2ni0aM %}
 
 ## What is geothermal energy?
 
