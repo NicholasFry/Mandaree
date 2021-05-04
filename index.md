@@ -54,6 +54,7 @@ youtubeId: 1YFLUbyPhcE
   
 ![Awareness](https://raw.githubusercontent.com/NicholasFry/Mandaree/36c1759a1cf51ba05f53f7178bce2c547b1ddd7e/Education.svg)
 This work was done in accordance with Executive Action (EA) 21-14
+Technical reports from this project are made available directly to MHA nation.
 
 ### Examples of Geothermal District Heating
 [Boise, Idaho](https://bwswd.com)
